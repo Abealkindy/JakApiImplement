@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="size28sp">28sp</dimen>
+    <dimen name="size30sp">30sp</dimen>
+    <dimen name="jarak15dp">15dp</dimen>
+    <dimen name="jarak25dp">25dp</dimen>
+    <dimen name="jarak5dp">5dp</dimen>
+    <dimen name="jarak250dp">250dp</dimen>
+    <dimen name="jarak10dp">10dp</dimen>
+    <dimen name="jarak300dp">300dp</dimen>
+</resources>
