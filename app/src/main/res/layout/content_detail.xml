@@ -15,8 +15,8 @@
 
         <android.support.v7.widget.CardView
             android:layout_width="match_parent"
-            app:cardCornerRadius="@dimen/jarak5dp"
-            android:layout_height="@dimen/jarak250dp">
+            android:layout_height="@dimen/jarak250dp"
+            app:cardCornerRadius="@dimen/jarak5dp">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -35,9 +35,9 @@
         <android.support.v7.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:cardCornerRadius="@dimen/jarak5dp"
             android:layout_gravity="bottom"
-            android:layout_marginTop="@dimen/jarak10dp">
+            android:layout_marginTop="@dimen/jarak10dp"
+            app:cardCornerRadius="@dimen/jarak5dp">
 
             <LinearLayout
                 android:layout_width="match_parent"
